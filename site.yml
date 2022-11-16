@@ -3,8 +3,8 @@ runtime:
 
 site:
   title: Template Tutorial
-  url: https://redhat-scholars.github.io/course-template
-  start_page: template-tutorial::index.adoc
+  url: https://tutsunom.github.io/workshop-test
+  start_page: index.adoc
 
 content:
   sources:
